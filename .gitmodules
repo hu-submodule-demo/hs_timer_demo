@@ -1,0 +1,3 @@
+[submodule "hs_timer"]
+	path = hs_timer
+	url = https://github.com/hu-submodule/hs_timer.git
